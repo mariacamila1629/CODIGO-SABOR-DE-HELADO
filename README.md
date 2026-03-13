@@ -15,7 +15,7 @@
 6. Check flavor choice: Using if, elif, and else statements, the program determines which flavor the customer chose and increments the corresponding counter.
 7. Handle invalid input: If the entered flavor is not recognized, the program displays a message saying it is invalid.
 8. Show results: After all customers have answered, the program displays the total number of times each flavor was chosen.
-9. ## Results
+ ## Results
 
 chocolate = 0
 vainilla = 0
